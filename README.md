@@ -1,3 +1,3 @@
 # ProjetPersonnel
 
- & Cedric
+Théo & Cedric
